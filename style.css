@@ -252,6 +252,12 @@ ul .content::-webkit-scrollbar {
   	color: #e77f67;
 }
 
+.quantity{
+	font-size: 15px;
+  	font-style: italic;
+  	color: #e77f67;
+}
+
 .link:hover .link-img{
 	transform: translateY(20px);
 }
